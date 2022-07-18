@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Lily Ella Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Donate Me```
 
-- [`FamPay`](https://telegra.ph/file/8737b098fd5702daeb7e0.jpg)
+- [`FamPay`](https://telegra.ph/file/ba7fdbce536e5635fe69c.jpg)
 
 <p align="left">
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.

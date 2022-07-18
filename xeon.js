@@ -164,8 +164,8 @@ let docs = pickRandom(documents)
 //welcome\\
         let nama = await XeonBotInc.getName(num)
 memb = metadata.participants.length
-XeonWlcm = await getBuffer(`https://hardianto.xyz/api/welcome3?profile=${encodeURIComponent(ppuser)}&name=${encodeURIComponent(nama)}&bg=https://telegra.ph/file/d460e086f9f9bf6b04e17.jpg&namegb=${encodeURIComponent(metadata.subject)}&member=${encodeURIComponent(memb)}`)
-XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeURIComponent(ppuser)}&name=${encodeURIComponent(nama)}&bg=https://telegra.ph/file/d460e086f9f9bf6b04e17.jpg&namegb=${encodeURIComponent(metadata.subject)}&member=${encodeURIComponent(memb)}`)
+XeonWlcm = await getBuffer(`https://hardianto.xyz/api/welcome3?profile=${encodeURIComponent(ppuser)}&name=${encodeURIComponent(nama)}&bg=https://telegra.ph/file/06a08d0d3e2c2b922eefc.png&namegb=${encodeURIComponent(metadata.subject)}&member=${encodeURIComponent(memb)}`)
+XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeURIComponent(ppuser)}&name=${encodeURIComponent(nama)}&bg=https://telegra.ph/file/06a08d0d3e2c2b922eefc.png&namegb=${encodeURIComponent(metadata.subject)}&member=${encodeURIComponent(memb)}`)
                 if (anu.action == 'add') {
                 const xeonbuffer = await getBuffer(ppuser)
                 let xeonName = num
@@ -190,7 +190,7 @@ let buttons = [
 {buttonId: `wkwwk`, buttonText: {displayText: 'Welcome 💐'}, type: 1}
 ]
 let buttonMessage = {
-document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
+document: fs.readFileSync('./XeonMedia/theme/bot.jpg'),
 mimetype: docs,
 jpegThumbnail:XeonWlcm,
 mentions: [num],
@@ -231,10 +231,10 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
    //dont forget to put my name(Xeon) as credit
    //you fail to put, i sue you for sure!
 let buttons = [
-{buttonId: `wkwkwk`, buttonText: {displayText: 'Sayonara 🥀'}, type: 1}
+{buttonId: `wkwkwk`, buttonText: {displayText: 'Good Bye 👋🥀'}, type: 1}
 ]
 let buttonMessage = {
-document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
+document: fs.readFileSync('./XeonMedia/theme/bot.jpg'),
 mimetype: docs,
 jpegThumbnail:XeonLft,
 mentions: [num],
