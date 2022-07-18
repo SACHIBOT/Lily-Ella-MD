@@ -1,3 +1,3 @@
 {
-	"name": "Lily Ella Bot Multi Device "
+	"name": "Lily Ella Bot Multi Device"
 }
