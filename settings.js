@@ -64,13 +64,13 @@ global.location = "Srilanka , Western province , Colombo" //ur location
 global.owner = ['94725881990']
 global.ownertag = '94725881990' //ur tag number
 global.botname = 'Lily Ella Bot MD' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/SACHI/CheemsBot-MD4' //script link
+global.linkz = "https://www.youtube.com/channel/UC1-wONQE-85uzBX5JMdBxjw" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.youtube.com/channel/UC1-wONQE-85uzBX5JMdBxjw" //ur website to be displayed
+global.botscript = 'https://github.com/SACHI/Lily-Ella-MD' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Li Bot " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.packname = "Lily-Ella" //ur sticker watermark packname
+global.author = "SACHINTHA FDO" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/botsis.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/botsis.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/botsis.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['94725881990'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
