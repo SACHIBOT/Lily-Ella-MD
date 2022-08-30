@@ -43,7 +43,7 @@ Lily Ella Bot Multi Device is a automated whatsapp bot created by <a href="https
 
 ## ```Donate Me```
 
-- [`FamPay`](https://telegra.ph/file/ba7fdbce536e5635fe69c.jpg)
+- follow me:- https://github.com/SACHIBOT
 
 <p align="left">
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
@@ -51,9 +51,9 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 ## ```Bot Support Groups```
 
-- [`1st GC`](https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS)
-- [`2nd GC`](https://chat.whatsapp.com/LS1Xx3fSqg7FpSYSjKWhL5)
-- [`3rd GC`](https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd)
+- [`1st GC`](https://chat.whatsapp.com/KTGspPJKiVNATiXDvgXvpM)
+- [`2nd GC`](https://chat.whatsapp.com/Lg1hxxQMg8u7NOXOwAA7X8)
+- [`3rd GC`](https://chat.whatsapp.com/LbkIsI8WUujE4eTW5FQqBM)
 
 # Setup For Deployment 👇
 
