@@ -1,33 +1,36 @@
 
 
-<h1 align="center">LILY-ELLA-MD<br></h1>
+<h1 align="center">ꪶ𝐋𝐢𝐥𝐲-𝐄𝐥𝐥𝐚-𝐌𝐃ꫂ<br></h1>
 <p align="center">
-<img src="https://raw.githubusercontent.com/SACHIBOT/Lily-Ella-MD/master/XeonMedia/theme/bot.jpg">
+<img src="https://media.tenor.com/sCkOgr0s6GsAAAAC/cheems-nerd.gif" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
-Lily Ella Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/SACHIBOT" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/SACHIBOT/Lily-Ella-MD/master/XeonMedia/theme/botsis.jpg">
+Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
-<a href="https://youtu.be/WiIqCdiDjFo"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+Big thanks❤️ to <a href="https://github.com/RaySenpai69" target="_blank">Ray Senpai</a> for huge contribution, Check out his bot <a href="https://github.com/RaySenpai69/Nezuko" target="_blank">Nezuko</a>
+</p>
+
+---
+
+<p align="center">
+<a href="https://youtu.be/eE1bUUnR87Y"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
 
 ------
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/SACHIBOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/SACHIBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/SACHIBOT/Lily-Ella-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SACHIBOT/Lily-Ella-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/SACHIBOT/Lily-Ella-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SACHIBOT/Lily-Ella-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/SACHIBOT/Lily-Ella-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SACHIBOT/Lily-Ella-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/SACHIBOT/Lily-Ella-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-SACHIBOT%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/SACHIBOT/Lily-Ella-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/SACHIBOT/Lily-Ella-MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSACHIBOT%2FLily-Ella-MD4&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/SACHIBOT/Lily-Ella-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
+<a href="https://github.com/DGXeon/CheemsBot-MD6/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD6?color=blue&style=flat-square"></a>
+<a href="https://github.com/DGXeon/CheemsBot-MD6/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD6?color=red&style=flat-square"></a>
+<a href="https://github.com/DGXeon/CheemsBot-MD6/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/CheemsBot-MD6?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/DGXeon/CheemsBot-MD6"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/DGXeon/CheemsBot-MD6/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD6?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD6&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/DGXeon/CheemsBot-MD6/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -36,14 +39,14 @@ Lily Ella Bot Multi Device is a automated whatsapp bot created by <a href="https
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/94725881990"><img src="https://img.shields.io/badge/Contact -SACHIBOT25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/KTGspPJKiVNATiXDvgXvpM"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://wa.me/916909137213"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
 </p>
 
 ## ```Donate Me```
 
-- follow me:- https://github.com/SACHIBOT
+- [`FamPay`](https://i.ibb.co/SKkw6Sy/IMG-20221223-WA0373.jpg)
 
 <p align="left">
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
@@ -51,33 +54,27 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 ## ```Bot Support Groups```
 
-- [`1st GC`](https://chat.whatsapp.com/KTGspPJKiVNATiXDvgXvpM)
-- [`2nd GC`](https://chat.whatsapp.com/Lg1hxxQMg8u7NOXOwAA7X8)
-- [`3rd GC`](https://chat.whatsapp.com/LbkIsI8WUujE4eTW5FQqBM)
+- [`1st GC`](https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS)
+- [`2nd GC`](https://chat.whatsapp.com/BW0o3ZyiAF5Azb1bIqG9Ue)
+- [`3rd GC`](https://chat.whatsapp.com/KMymhLdGcjPHihOkrfHW7q)
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/SACHIBOT/Lily-Ella-MD4/fork)
+- FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD6/fork)
 
 ## `Scan QR Code For Session`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
 
-## `SETTINGS`
-
-- CHANGE OWNER NUMBER VCARD [Here](https://github.com/SACHIBOT/Lily-Ella-MD4/blob/master/settings.js#L58)
-- CHANGE OWNER NUMBER MENU [Here](https://github.com/SACHIBOT/Lily-Ella-MD4/blob/master/settings.js#L65)
-- CHANGE OWNER NUMBER TAG [Here](https://github.com/SACHIBOT/Lily-Ella-MD4/blob/master/settings.js#L66)
-- CHANGE OWNER NAME [Here](https://github.com/SACHIBOT/Lily-Ella-MD4/blob/master/settings.js#L59)
-- CHANGE BOT NAME [Here](https://github.com/SACHIBOT/Lily-Ella-MD4/blob/master/settings.js#L67)
-
-## ` BUILDPACKS`
+ ` BUILDPACKS`
 
 ```
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SACHIBOT/Lily-Ella-MD/)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD6)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD6/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -88,8 +85,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/SACHIBOT/Lily-Ella-MD4.git
-cd CheemsBot-MD4
+git clone https://github.com/DGXeon/CheemsBot-MD6.git
+cd CheemsBot-MD6
 
 npm start
 ```
@@ -105,8 +102,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/SACHIBOT/Lily-Ella-MD4
-cd Lily-Ella-MD
+git clone https://github.com/DGXeon/CheemsBot-MD6
+cd CheemsBot-MD
 npm start
 ```
 ## `For VPS`
@@ -117,8 +114,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/SACHIBOT/Lily-Ella-MD4
-cd Lily-Ella-MD4
+git clone https://github.com/DGXeon/CheemsBot-MD6
+cd CheemsBot-MD6
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
