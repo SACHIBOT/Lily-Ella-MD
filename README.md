@@ -2,7 +2,7 @@
 
 <h1 align="center">LILY-ELLA-MD<br></h1>
 <p align="center">
-<img src="https://raw.githubusercontent.com/SACHIBOT/Lily-Ella-MD/blob/master/XeonMedia/theme/Lily-bot.mp4">
+<img src="https://raw.githubusercontent.com/SACHIBOT/Lily-Ella-MD/master/XeonMedia/theme/Lily-bot.mp4">
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@ LILY-ELLA Multi Device Bot is a automated whatsapp bot developed by <a href="htt
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SACHIBOT/Lily-Ella-MD/blob/master/XeonMedia/theme/Lilypic.jpg">
+<img src="https://raw.githubusercontent.com/SACHIBOT/Lily-Ella-MD/master/XeonMedia/theme/Lilypic.jpg">
 </p>
 
 ------
