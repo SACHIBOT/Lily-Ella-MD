@@ -2,7 +2,7 @@
 
 <h1 align="center">LILY-ELLA-MD<br></h1>
 <p align="center">
-<img src="https://raw.githubusercontent.com/SACHIBOT/Lily-Ella-MD/master/XeonMedia/theme/Lily-bot.mp4">
+<img src="https://raw.githubusercontent.com/SACHIBOT26/Lily-Ella-MD/master/XeonMedia/theme/bot.jpg">
 </p>
 
 <p align="center">
