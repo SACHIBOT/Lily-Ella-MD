@@ -35,7 +35,7 @@ LILY-ELLA Multi Device Bot is a automated whatsapp bot developed by <a href="htt
 ## ```Connect With Me```
 <p align="center">
 <a href="https://wa.me/94725881990"><img src="https://img.shields.io/badge/Contact -SACHIBOT25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="IT WILL BE UPDATED AS SOON AS POSSIBLE"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/Io1KFbF0v3MB4XADe7r2Y6"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.youtube.com/@sachibot26"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@sachibot26" /><br>
 </p>
 
