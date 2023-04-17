@@ -20,7 +20,7 @@
   "author": "SACHIBOT",
   "license": "AGPL-3",
   "dependencies": {
-    "@adiwajshing/baileys": "^5.0.0",
+    "@adiwajshing/baileys": "git+https://github.com/AN-Tech-Crew/BaileysForQueenAmdi#3e8a609ad9779ee2ac1726bd63c9736f69231c48",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "anime-wallpaper": "^1.0.2",
